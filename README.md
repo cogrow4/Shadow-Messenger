@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Shadow Messenger
 
 A secure peer-to-peer messaging application with end-to-end encryption.
@@ -21,32 +20,32 @@ A secure peer-to-peer messaging application with end-to-end encryption.
 ## Installation
 
 1. Clone the repository:
-```
-git clone https://github.com/yourusername/shadow-messenger.git
-cd shadow-messenger
+```bash
+git clone https://github.com/cogrow4/Shadow-Messenger.git
+cd Shadow-Messenger
 ```
 
 2. Install dependencies:
-```
+```bash
 pip install -r requirements.txt
 ```
 
 ## Usage
 
 Run the application:
-```
-python ui.py
+```bash
+python main.py
 ```
 
 Or specify a custom port:
+```bash
+python main.py --port 5556
 ```
-python ui.py --port 5556
-```
+
+## Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## License
 
-MIT
-=======
-# Shadow-Messenger
-An Encrypted Peer-To-Peer, Messenging App
->>>>>>> 29b30e6db72df7f0fc5e37a8a7e233b3444ce0f8
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
