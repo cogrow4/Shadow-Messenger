@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shadow Messenger
 
 A secure peer-to-peer messaging application with end-to-end encryption.
@@ -45,3 +46,7 @@ python ui.py --port 5556
 ## License
 
 MIT
+=======
+# Shadow-Messenger
+An Encrypted Peer-To-Peer, Messenging App
+>>>>>>> 29b30e6db72df7f0fc5e37a8a7e233b3444ce0f8
