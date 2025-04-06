@@ -1,0 +1,14 @@
+{
+    "network": {
+        "port": 5555,
+        "timeout": 5000
+    },
+    "encryption": {
+        "key_size": 2048,
+        "key_directory": "keys"
+    },
+    "ui": {
+        "window_width": 600,
+        "window_height": 400
+    }
+}
